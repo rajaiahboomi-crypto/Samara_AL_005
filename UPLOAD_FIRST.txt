@@ -1,0 +1,17 @@
+SAMARA CARE V14 INTEGRATED RELEASE
+
+1. Run supabase/04_V14_INTEGRATED_UPGRADE.sql in a NEW Supabase SQL query.
+2. Upload and replace: index.html, 404.html, app.js, styles.css, service-worker.js.
+3. Wait 2 minutes and open:
+   https://rajaiahboomi-crypto.github.io/Samara-AL_V7/?v=14
+4. Press Ctrl+Shift+R once.
+
+Included:
+- Editable Room & Bed Master
+- Patient filters by Referred By and payment status
+- Patient payment history
+- Payment Raised By employee/role/time
+- Discount request/approval tracking
+- Full Bill with charges, payments and approved discounts
+- Print/PDF through the browser print dialog
+- Referral-wise billing summary

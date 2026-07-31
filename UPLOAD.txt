@@ -1,0 +1,12 @@
+SAMARA CARE V13 – EMPLOYEE ADDRESS + PATIENT REFERRAL DETAILS
+
+1. In Supabase SQL Editor, create a NEW query.
+2. Run supabase/03_V13_ADDITIONAL_FIELDS.sql.
+3. Upload and replace these GitHub root files:
+   index.html
+   404.html
+   app.js
+   service-worker.js
+4. Wait 2 minutes and open:
+   https://rajaiahboomi-crypto.github.io/Samara-AL_V7/?v=13
+5. Press Ctrl+Shift+R once.

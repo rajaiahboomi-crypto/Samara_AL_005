@@ -1,0 +1,16 @@
+SAMARA CARE V16 – PATIENT PHOTO PROFILE
+
+No SQL upgrade is required.
+
+Upload and replace these files in the GitHub repository root:
+- index.html
+- 404.html
+- app.js
+- styles.css
+- service-worker.js
+
+Open after deployment:
+https://rajaiahboomi-crypto.github.io/Samara_AL_005/?v=16
+
+Patient Profile uses the latest document whose category is Patient Photograph.
+Admin, Manager and Nurse can upload or replace the photo directly from the profile.

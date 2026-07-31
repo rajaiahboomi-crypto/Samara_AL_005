@@ -1,0 +1,1 @@
+Upload the CONTENTS of this folder to the ROOT of Samara_AL_005. Replace index.html, app.js, styles.css, config.js, service-worker.js, 404.html, manifest.webmanifest, icons, and keep the supabase folder for reference.

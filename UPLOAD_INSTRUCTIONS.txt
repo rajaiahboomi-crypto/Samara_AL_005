@@ -1,0 +1,12 @@
+SAMARA CARE V20 - PHOTO SUCCESS MESSAGE FIX
+
+Upload and replace these files in the root of Samara_AL_005:
+- index.html
+- 404.html
+- app.js
+- service-worker.js
+
+Then open:
+https://rajaiahboomi-crypto.github.io/Samara_AL_005/?v=20
+
+This release fixes the loadData is not defined message after a successful patient photo upload.
